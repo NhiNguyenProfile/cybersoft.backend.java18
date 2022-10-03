@@ -1,0 +1,18 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(µâ§¯ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ìß¡’
+S
+java:S1611"8Remove the parentheses around the "connection" parameter(’ıáËùÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(çğë
+N
+java:S1611:"8Remove the parentheses around the "connection" parameter(ÔîÀ·
+N
+java:S1611D"8Remove the parentheses around the "connection" parameter(ÔîÀ·
+N
+java:S1611P"8Remove the parentheses around the "connection" parameter(ÔîÀ·
+a
+java:S1128"FRemove this unused import 'cybersoft.java18.crm.jdbc.MysqlConnection'.(‡ëÏ°şÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+H
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ

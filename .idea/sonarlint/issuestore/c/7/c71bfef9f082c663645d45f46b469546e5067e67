@@ -1,0 +1,21 @@
+
+g
+java:S1989#"QHandle the following exception that could be thrown by "handleData": IOException.(É‰„°
+l
+java:S19898"QHandle the following exception that could be thrown by "handleData": IOException.(üµ °ûÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¨§ùîüÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(¸ò§
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(İÖäà
+l
+java:S1989P"QHandle the following exception that could be thrown by "handleData": IOException.(üµ °ûÿÿÿÿ
+f
+java:S1989U"PHandle the following exception that could be thrown by "getReader": IOException.(¹É€
+j
+java:S1989X"OHandle the following exception that could be thrown by "readLine": IOException.(Ç½Œâıÿÿÿÿ
+r
+java:S1989]"WHandle the following exception that could be thrown by "fromJson": JsonSyntaxException.(™×Ãøÿÿÿÿ
+l
+java:S1989m"QHandle the following exception that could be thrown by "handleData": IOException.(üµ °ûÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ˆäƒÙúÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ğŒ©

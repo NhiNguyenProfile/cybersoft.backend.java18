@@ -1,0 +1,15 @@
+
+V	java:S125!"<This block of commented-out lines of code should be removed.(üëù¼ÿÿÿÿÿ
+g
+java:S1989%"QHandle the following exception that could be thrown by "handleData": IOException.(µÿöÀ
+l
+java:S1989;"QHandle the following exception that could be thrown by "handleData": IOException.(üµ °ûÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(‘—¢â
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(İÖäà
+l
+java:S1989R"QHandle the following exception that could be thrown by "handleData": IOException.(üµ °ûÿÿÿÿ
+l
+java:S1989k"QHandle the following exception that could be thrown by "handleData": IOException.(üµ °ûÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(ÒÑã±
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ğŒ©
